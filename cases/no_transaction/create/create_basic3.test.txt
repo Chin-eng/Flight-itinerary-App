@@ -1,0 +1,13 @@
+# commands to execute:
+create user4 user4 100
+create user6 user6 100
+create user7 user7 100
+quit
+*
+
+# expected output from those commands:
+Created user user4
+Created user user6
+Created user user7
+Goodbye
+*
